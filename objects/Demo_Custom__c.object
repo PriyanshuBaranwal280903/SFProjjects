@@ -166,7 +166,7 @@
     <fields>
         <fullName>Field_One__c</fullName>
         <defaultValue>false</defaultValue>
-        <label>Field One</label>
+        <label>New Custom Field</label>
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
     </fields>
